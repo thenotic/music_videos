@@ -5,7 +5,7 @@ require 'music_videos/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "music_videos"
-  spec.version       = MusicVideos::VERSION
+  spec.version       = '0.0.0'
   spec.authors       = ["thenotic"]
   spec.email         = ["liban.aliyusuf@gmail.com"]
   spec.summary       = "Finds Artist Music Videos"
